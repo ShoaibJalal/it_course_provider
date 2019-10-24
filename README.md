@@ -1,3 +1,12 @@
+## Details
+
+This application is using ejs, MongoDB database with Mongooose and express server.
+Application is using passport authentication and encryption for the User model, sessions and cookies between page requests.
+
+## App Demo
+
+url: https://it-course-provider.herokuapp.com/users
+
 ### Aplication structure
 
 #### models
